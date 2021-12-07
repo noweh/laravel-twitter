@@ -1,0 +1,35 @@
+{
+  "name": "noweh/laravel-twitter",
+  "description": "Laravel Wrapper for Twitter API V2.",
+  "keywords": [
+    "laravel",
+    "twitter",
+    "API"
+  ],
+  "type": "library",
+  "require": {
+    "php": ">=7.4",
+    "laravel/framework": "^6.0 || ^7.0 || ^8.0",
+    "noweh/twitter-api-v2-php": "^1.4"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Julien Schmitt",
+      "email": "jschmitt95@protonmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Noweh\\Twitter\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Noweh\\Twitter\\TwitterServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev"
+}
