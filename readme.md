@@ -1,11 +1,11 @@
 # Twitter API V2 for Laravel
 
-
-[![Badge Twitter](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)](https://developer.twitter.com/en/docs/twitter-api)
 ![Laravel](https://img.shields.io/badge/Laravel-v6/7/8-828cb7.svg?style=flat-square&logo=Laravel&color=FF2D20)
 ![PHP](https://img.shields.io/badge/PHP-v7.4-828cb7.svg?style=flat-square)
+[![Badge Twitter](https://img.shields.io/badge/Twitter%20API-v2-828cb7.svg?style=flat-square&logo=twitter&color=1DA1F2)](https://developer.twitter.com/en/docs/twitter-api)
+[![last version](https://img.shields.io/packagist/v/noweh/laravel-twitter)](https://packagist.org/packages/noweh/laravel-twitter)
 [![Run Tests](https://github.com/noweh/twitter-api-v2-php/actions/workflows/run-tests.yml/badge.svg)](https://github.com/noweh/twitter-api-v2-php/actions/workflows/run-tests.yml)
-[![MIT Licensed](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](licence.md)
+[![MIT Licensed](https://img.shields.io/github/license/noweh/laravel-twitter)](licence.md)
 
 A Laravel Wrapper for the Twitter REST API V2 endpoints.
 
